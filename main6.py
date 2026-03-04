@@ -1,4 +1,6 @@
-#while loop
+#Feb 27, Friday, 11:00AM.
+# Authors: Enkhjin, Begu
+# Topic: while loop
 
 # x = 0
 
