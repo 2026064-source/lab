@@ -3,7 +3,7 @@
 # Topic: Function
 
 
-def talk (): #declare
+def talk (): #declare (declare нь нэр болон төрөл үүсгэнэ initialize нь дотор нь утга, өгөгдөл өгөх)
     print("hello world")
 
 talk() #call
@@ -72,6 +72,10 @@ print(sum([1,2,3,4,5]))
 print(sum(nums))
 
 
+#def(define)->function(функц). Define function-функц зарлах 
+# when do we use Def? нэг үйлдлийг олон удаа ашиглах үед , олон давтагдах зүйлийг хялбарчлах.....
+#()-parameter-function 
+#
 
 
 
